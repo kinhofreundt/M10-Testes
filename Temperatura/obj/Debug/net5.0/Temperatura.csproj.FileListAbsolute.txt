@@ -1,0 +1,12 @@
+C:\Users\mateu\Desktop\DotNet5-xUnit\Temperatura\bin\Debug\net5.0\Temperatura.deps.json
+C:\Users\mateu\Desktop\DotNet5-xUnit\Temperatura\bin\Debug\net5.0\Temperatura.dll
+C:\Users\mateu\Desktop\DotNet5-xUnit\Temperatura\bin\Debug\net5.0\ref\Temperatura.dll
+C:\Users\mateu\Desktop\DotNet5-xUnit\Temperatura\bin\Debug\net5.0\Temperatura.pdb
+C:\Users\mateu\Desktop\DotNet5-xUnit\Temperatura\obj\Debug\net5.0\Temperatura.csproj.AssemblyReference.cache
+C:\Users\mateu\Desktop\DotNet5-xUnit\Temperatura\obj\Debug\net5.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\DotNet5-xUnit\Temperatura\obj\Debug\net5.0\Temperatura.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\DotNet5-xUnit\Temperatura\obj\Debug\net5.0\Temperatura.AssemblyInfo.cs
+C:\Users\mateu\Desktop\DotNet5-xUnit\Temperatura\obj\Debug\net5.0\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\DotNet5-xUnit\Temperatura\obj\Debug\net5.0\Temperatura.dll
+C:\Users\mateu\Desktop\DotNet5-xUnit\Temperatura\obj\Debug\net5.0\ref\Temperatura.dll
+C:\Users\mateu\Desktop\DotNet5-xUnit\Temperatura\obj\Debug\net5.0\Temperatura.pdb
